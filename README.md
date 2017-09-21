@@ -1,7 +1,7 @@
 # SUSTech issues
 What's happening? 君欲何为？
 
-[点此提交Issue](https://github.com/tuna/issues/issues/new)
+[点此提交Issue](https://github.com/sustc/issues/issues/new)
 
 - Mirror Requests 镜像请求
 - Service Issues 服务故障
